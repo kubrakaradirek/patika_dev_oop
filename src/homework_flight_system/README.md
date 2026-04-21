@@ -1,0 +1,1 @@
+![PilotSystemDiagram.png](PilotSystemDiagram.png)
